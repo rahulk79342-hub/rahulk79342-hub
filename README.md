@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Rahul Kumar<br>Software Developer | Building Real-World Projects with Python, FastAPI, React & AI APIs, OpenAI Codex to accelerate development | Open to Opportunities.
 
